@@ -9,3 +9,5 @@ X
 (contracts/cross-dimensional-trading.clar,3/3/334815daed091a356ccef7b39cfcae25ed2392b7
 W
 'tests/cross-dimensional-trading.test.ts,3/f/3f6939dfff10c37da45e59e1176dea1c22308c2c
+M
+contracts/reality-anchor.clar,7/9/7971942802dafbd0017a3286f4797d934dc884b9
