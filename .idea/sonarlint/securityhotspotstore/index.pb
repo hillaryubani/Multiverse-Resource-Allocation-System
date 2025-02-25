@@ -7,3 +7,5 @@ a
 0tests/inter-universal-resource-tracking_.test.ts,3/a/3a9ed46b8e16ba8e4c9db5509de0a90156556b17
 X
 (contracts/cross-dimensional-trading.clar,3/3/334815daed091a356ccef7b39cfcae25ed2392b7
+W
+'tests/cross-dimensional-trading.test.ts,3/f/3f6939dfff10c37da45e59e1176dea1c22308c2c
